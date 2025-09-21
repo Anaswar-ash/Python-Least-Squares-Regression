@@ -1,0 +1,45 @@
+Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+C extensions
+*.so
+
+Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.whl
+
+PyInstaller
+(https://www.google.com/search?q=https://github.com/pyinstaller/pyinstaller/wiki/Recipe-PyInstaller-and-Git)
+Usually adds 'dist' and 'build'
+but you can specify more here.
+- a.
+- b.
+- c.
+- d.
+- e.
+Sphinx documentation
+docs/_build/
+
+Jupyter Notebook
+.ipynb_checkpoints
+
+Virtual environment
+.venv/
+venv/
+env/
+/bin/
+/lib/
+/include/
+
+IDE files
+.idea/
+.vscode/
+
+Other
+*.log
+*.sqlite
